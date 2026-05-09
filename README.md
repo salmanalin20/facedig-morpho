@@ -43,6 +43,7 @@ facedig-project/
 ### 1. Buat Conda Environment
 
 ```bash
+conda env list
 conda env create -f environment.yml
 conda activate facedig-morpho
 ```
